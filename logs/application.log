@@ -1,0 +1,5 @@
+19:40:58.218 [main] INFO  FileManager - Файл успешно скопирован в C:\ffff аа\diagram (7).png
+19:43:39.937 [main] INFO  FileManager - Вывод размеров файлов в директории C:\ffff аа:
+19:45:01.671 [main] ERROR FileManager - Ошибка: Недостаточно прав для записи в целевую директорию.
+19:45:51.678 [main] ERROR FileManager - Ошибка: В директории C:\ffff аа нет файлов.
+00:01:16.607 [main] INFO  FileManager - Вывод размеров файлов в директории C:\Users\Dimam\Downloads:
